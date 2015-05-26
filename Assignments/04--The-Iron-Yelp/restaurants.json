@@ -225,7 +225,7 @@
     "cuisines": ["Steakhouses", "Bars"],
     "ratings": [10, 9, 10, 8, 7, 9, 10, 8, 9]
   }
-    {
+  {
     "id": 99,
     "name": "Church Street Tavern",
     "address": "120 W Church St",
