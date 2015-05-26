@@ -261,7 +261,7 @@
       }
     },
     "price": [11,30],
-    "cuisines": ["Steakhouses", "Bars"],
+    "cuisines": ["Pubs", "Sandwiches", "American (Traditional)"],
     "ratings": [8, 7, 6, 6, 4, 7, 9, 9, 9, 5]
   }
 ]
